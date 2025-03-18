@@ -1,1 +1,3 @@
-This is read me page
+I changed the readme page.
+This projet is for learning mlops
+
